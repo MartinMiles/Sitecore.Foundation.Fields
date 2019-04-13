@@ -16,6 +16,7 @@ Currently it is the only field coming with this project.
 That in fact allows you creaing a various high-level subscription model or any sort of customization / personalization based on role that logged user belongs to.
 
 
+![Sitecore.Foundation.Fields](https://raw.githubusercontent.com/wiki/MartinMiles/Sitecore.Foundation.Fields/images/role_selector.png "Sitecore.Foundation.Fields") 
 
 #### Parameters
 
