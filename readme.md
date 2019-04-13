@@ -36,7 +36,7 @@ Domain=your_sitecore_domain
 
 ### Credits
 
-I want to warmly thank Mike Reynolds for his research re. custom fields and some of the code I've borrowed fromt him.
+I want to warmly thank Mike Reynolds for his research re. custom fields and some of the code I've borrowed from him.
 
 * [Mike Reynolds](https://sitecorejunkie.com) - great man and Sitecore MVP, who does many crazy tricks with Sitecore, ispiring others like me.
 
