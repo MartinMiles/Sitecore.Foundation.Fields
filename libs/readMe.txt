@@ -1,0 +1,1 @@
+In order to get solution built successfully, please place ComponentArt.Web.UI.dll from you website \bin folder into this directory.
